@@ -92,6 +92,9 @@ A dashboard was created in **Power BI** using the exported predictions to explor
 - Distribution comparison (real vs predicted)
 - Scenarios for Over/Under 2.5 goal markets
 
+### General Overview Page
+![Dashboard Page 1](images/dashboard-bet.png)
+
 ---
 
 ## 📁 Folder Structure
